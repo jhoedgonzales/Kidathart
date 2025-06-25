@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background: linear-gradient(180deg, #00315e, #307191);
+}
+
+.custom-link {
+    font-weight: 500;
+    color: whitesmoke;
+}
+
+.container h1 {
+    text-align: left;
+    font-weight: 1000;
+    color:whitesmoke;
+}
+
+.text-primary {
+    color: rgb(9, 9, 168);
+}
+
+.btn-primary {
+    background-color: #0d6efd;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #9e9e9e;
+    color: black;
+}
+
+.row h2 {
+    color: #00315e;
+}
+
+
+.icons {
+    font-size: xx-large;
+    color: #00315e;
+}
+
+.bi-megaphone-fill {
+    font-size: xx-large;
+    color:white;
+}
+
+.nav-tabs .nav-item.show, .nav-tabs .nav-link.active {
+    border: none !important;
+    background-color: #0d6efd;
+    color: white;
+}
+
+.nav-tabs .nav-link {
+   border: none !important; 
+}
+
+.nav-link {
+    color: black;
+}
+
+.form-label {
+    color: #00315e;
+}
+
+.cutom-btn {
+    width: 100%;
+}
+
+.blue-bg {
+    background-color: #00315e;
+}
+
+.footer {
+    color: whitesmoke !important;
+    padding: 5px !important;
+}
